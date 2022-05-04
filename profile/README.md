@@ -8,7 +8,7 @@ Here is an overview of the differents repositories here :
  - The modules : 
     - Module base : [iris-module-interface](https://github.com/dfir-iris/iris-module-interface)
     - MISP module : [iris-misp-module](https://github.com/dfir-iris/iris-misp-module)
-    - VT module : [iris-vt-mpdule](https://github.com/dfir-iris/iris-vt-module)
+    - VT module : [iris-vt-module](https://github.com/dfir-iris/iris-vt-module)
     - EVTX module : [iris-evtx-module](https://github.com/dfir-iris/iris-evtx-module)
     - Check module : [iris-check-module](https://github.com/dfir-iris/iris-check-module)
 - The DOCX generator : [docx-generator](https://github.com/dfir-iris/docx-generator)
