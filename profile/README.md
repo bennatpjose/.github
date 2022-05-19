@@ -1,5 +1,5 @@
 # DFIR-IRIS
-This orgnanisation is all about [DFIR-IRIS](https://dfir-iris.github.io/), a collaborative platform aiming 
+This orgnanisation is all about [DFIR-IRIS](https://dfir-iris.org), a collaborative platform aiming 
 to help incident responders to share technical details during investigations.
 
 Here is an overview of the differents repositories here : 
