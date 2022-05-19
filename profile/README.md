@@ -12,7 +12,7 @@ Here is an overview of the differents repositories here :
     - EVTX module : [iris-evtx-module](https://github.com/dfir-iris/iris-evtx-module)
     - Check module : [iris-check-module](https://github.com/dfir-iris/iris-check-module)
 - The DOCX generator : [docx-generator](https://github.com/dfir-iris/docx-generator)
-- The documentation sources : [dfir-iris.github.io](https://github.com/dfir-iris/dfir-iris.github.io)
+- The documentation sources : [iris-doc-src](https://github.com/dfir-iris/iris-doc-src)
 
 ## Need help ?
 You can reach us on [Discord](https://discord.gg/76tM6QUJza) or by [email](mailto:contact@dfir-iris.org).  
