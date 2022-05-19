@@ -16,4 +16,4 @@ Here is an overview of the differents repositories here :
 
 ## Need help ?
 You can reach us on [Discord](https://discord.gg/76tM6QUJza) or by [email](mailto:contact@dfir-iris.org).  
-There is also a comprehensive documentation [here](https://dfir-iris.github.io/introduction/). 
+There is also a comprehensive documentation [here](https://docs.dfir-iris.org/). 
