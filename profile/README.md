@@ -1,5 +1,5 @@
 # DFIR-IRIS
-This orgnanisation is all about [DFIR-IRIS](https://dfir-iris.org), a collaborative platform aiming 
+This organisation is all about [DFIR-IRIS](https://dfir-iris.org), a collaborative platform aiming 
 to help incident responders to share technical details during investigations.
 
 Here is an overview of the differents repositories here : 
@@ -15,5 +15,8 @@ Here is an overview of the differents repositories here :
 - The documentation sources : [iris-doc-src](https://github.com/dfir-iris/iris-doc-src)
 
 ## Need help ?
-You can reach us on [Discord](https://discord.gg/76tM6QUJza) or by [email](mailto:contact@dfir-iris.org).  
+You can reach us on [Discord](https://discord.gg/76tM6QUJza), [Matrix](https://matrix.to/#/#dfir-iris:matrix.org) or by [email](mailto:contact@dfir-iris.org).  
 There is also a comprehensive documentation [here](https://docs.dfir-iris.org/). 
+
+## We do need you
+IRIS is meant to be a collaborative project! We're more than open to any contributions - ideas, issues, PR, new modules, sponsorship, anything that can help us improve the project. Let's make something great! :tada:
