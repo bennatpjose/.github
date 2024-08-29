@@ -10,6 +10,7 @@ Here is an overview of the differents repositories here :
     - Module base : [iris-module-interface](https://github.com/dfir-iris/iris-module-interface)
     - MISP module : [iris-misp-module](https://github.com/dfir-iris/iris-misp-module)
     - VT module : [iris-vt-module](https://github.com/dfir-iris/iris-vt-module)
+    - Seika.io module: [iris-vt-module](https://github.com/dfir-iris/iris-seika-module)
     - Webhooks module: [iris-webhooks-module](https://github.com/dfir-iris/iris-webhooks-module)
     - EVTX module : [iris-evtx-module](https://github.com/dfir-iris/iris-evtx-module)
     - Check module : [iris-check-module](https://github.com/dfir-iris/iris-check-module)
@@ -17,7 +18,7 @@ Here is an overview of the differents repositories here :
 - The documentation sources : [iris-doc-src](https://github.com/dfir-iris/iris-doc-src)
 
 ## Need help ?
-You can reach us on [Discord](https://discord.gg/76tM6QUJza), [Matrix](https://matrix.to/#/#dfir-iris:matrix.org) or by [email](mailto:contact@dfir-iris.org).  
+You can reach us on [Discord](https://discord.gg/76tM6QUJza), or by [email](mailto:contact@dfir-iris.org).  
 There is also a comprehensive documentation [here](https://docs.dfir-iris.org/). 
 
 ## We do need you
